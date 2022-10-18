@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Item /> Should render correctly 1`] = `
+<div
+  className="sc-dkrFOg fxVuLP"
+/>
+`;
+
+exports[`<Row /> Should render correctly 1`] = `
+<div
+  className="sc-gswNZR fRojqK"
+/>
+`;
+
+exports[`<StyledInput /> Should render correctly 1`] = `
+<input
+  className="sc-hLBbgP icvjiK"
+/>
+`;
+
+exports[`<StyledLabel /> Should render correctly 1`] = `
+<label
+  className="sc-eDvSVe TLawV"
+/>
+`;
+
+exports[`<StyledSelect /> Should render correctly 1`] = `
+<select
+  className="sc-jSUZER epeykz"
+/>
+`;
+
+exports[`<StyledSpan /> Should render correctly 1`] = `
+<span
+  className="sc-ftTHYK facPMY"
+/>
+`;
+
+exports[`<StyledTextarea /> Should render correctly 1`] = `
+<textarea
+  className="sc-gKPRtg kqGUpY"
+/>
+`;
+
+exports[`<SubmitButton /> Should render correctly 1`] = `
+<button
+  className="sc-iBYQkv ihheyn"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 1`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 2`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 3`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 4`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 5`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 6`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<TextInput /> Should render correctly 7`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
+
+exports[`<Title /> Should render correctly 1`] = `
+<div
+  className="sc-bcXHqe phYlm"
+/>
+`;
